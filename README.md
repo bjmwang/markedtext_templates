@@ -7,7 +7,7 @@
 如今分享出来，希望对大家有所帮助。
 
 - Ubuntu下，首先安装`texlive`和`latex-cjk-all`，然后再使用中文。
-- Window下，请参考`CTex`等的相关文档。
+- Windows用户请参考`CTex`等相关文档。
 
 ### Org文档模板
 `Emacs`编辑器`Org`模式的模板
